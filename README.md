@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dungx2
 - 👀 I’m interested in you hehe
-- 🌱 I’m currently learning something fun (edit video, code)
-- 💞️ I’m looking to collaborate on valorant lmao
+
 
 
 <!---
